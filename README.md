@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Alireza-Safa
-- 👀 I’m interested in ...
-Control Theory
+- 👀 I’m interested in
+ 
+-Control Theory
 ■ Optimization 
 ■ Chaotic Systems
 ■ Time-delay Systems
@@ -8,12 +9,12 @@ Control Theory
 ■ Fault Detection and Diagnosis
 ■ Attitude Estimation and Control
 
-Power Systems
+-Power Systems
 ▲ Wind Turbine Control
 ▲ Distributed and Smart Grid control 
 ▲ Power System Stability Improvement Using FACTS Devices
 
-Biomedical
+-Biomedical
 ♦ ECG Signal Processing 
 ♦Speech processing
 ♦Medical Equipment Calibration
